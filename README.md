@@ -1,8 +1,9 @@
-# Simple Rick and Morty App using Programmatic UI with SnapKit
+# Rick and Morty App
+Simple Rick and Morty App using Programmatic UI with SnapKit.
 
 `Endpoint:` https://rickandmortyapi.com/api/character
 
-## Packages
+## Packages
 
 - SnapKit
 - Alamofire
@@ -10,4 +11,4 @@
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](https://github.com/sametkoyuncu/RickMortySwiftWithoutStoryboard/blob/master/screenshots/screenshot.png)
